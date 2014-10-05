@@ -33,3 +33,4 @@ Plants and Trees		by	Fritigern (just the pack, not the contents)
   |_ Plants lib			by	VanessaE
 Stackable buckets		by	Casimir (https://forum.minetest.net/viewtopic.php?f=9&t=8917&hilit=stackable)
 Ambience			by	Neuromancer
+Signs				by	PilzAdam
