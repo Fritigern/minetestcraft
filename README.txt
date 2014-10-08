@@ -38,6 +38,7 @@ Stackable buckets		by	Casimir (https://forum.minetest.net/viewtopic.php?f=9&t=89
 Ambience			by	Neuromancer
 Signs				by	PilzAdam
 Framed Glass			by	RealBadAngel
+Vines				by	Bas080
 
 Plus the following mods from minetest_game:
 boats
