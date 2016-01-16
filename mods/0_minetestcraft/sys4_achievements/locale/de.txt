@@ -1,0 +1,616 @@
+# German Translation for SYS4 Achievements Mod
+# Deutsche Übersetzung der SYS4 Achievements Mod
+# last update: 2016/Jan/13
+# Author: Xanthin
+
+#init.lua
+Dig\ \ = Sammeln\ \ 
+Craft\ \ = Fertigen\ \ 
+Place\ \ = Setzen\ \
+
+#init.lua achievements
+Finding wood = Finden Sie Holz
+Attack a tree and obtain wood. It's an essential raw material. = Schlagen Sie einen Baum, um Holz zu bekommen. Es ist ein unverzichtbarer Rohstoff.
+Make planks and sticks = Produzieren Sie Bretter und Stöcker
+Make Planks and Sticks from wood. = Produzieren Sie Bretter und Stöcker aus Holz.
+Good Pick! = Gute Spitzhacke!
+Make a wooden Pick from planks and sticks. = Produzieren Sie eine Holzspitzhacke aus Brettern und Stöckern.
+Farmer = Bauer
+Make a wooden Hoe from planks and sticks.  = Produzieren Sie eine Holzhacke aus Brettern und Stöckern.
+To the Furnace! = Zum Ofen!
+Make a furnace with 8 Cobblestones. = Produzieren Sie einen Ofen aus 8 Bruchsteinen.
+Better Pick! = Bessere Spitzhacke!
+Make a better quality Pick from sticks and stones. = Produzieren Sie eine Spitzhacke von besserer Qualität aus Stöckern und Steinen.
+Iron Age = Eisenzeit
+Dig iron ore. You will can smelt steel ingot with a furnace. = Sammeln Sie Eisenerz. Sie können es im Ofen schmelzen, um Stahlbarren zu erhalten.
+Complet miner = Vollendeter Bergarbeiter
+Make a steel Pick from sticks and steel ingots. = Produzieren Sie eine Stahlspitzhacke aus Stöckern und Stahlbarren.
+Bronze Age = Bronzezeit
+Make bronze ingots from steel and copper ingots. = Produzieren Sie Bronzebarren aus Stahl- und Kupferbarren.
+Into the straw = Ins Stroh
+Make a straw block with 9 wheats. = Produzieren Sie einen Strohblock aus 9 Weizenbündel.
+Lunch! = Zu Tisch!
+Make flour from wheat. Cook it into the furnace and good lunch! = Produzieren Sie Mehl aus Weizen. Backen Sie es im Ofen und guten Appetit!
+Going to sleep = Ich gehe schlafen
+Make a bed from planks and wool. = Produzieren Sie ein Bett aus Brettern und Wolle.
+Glass Blower = Glasbläser
+Make a container from glass or steel ingots. = Produzieren Sie ein Gefäß aus Glass oder Stahlbarren. Vorsicht, zerbrechlich!
+Shelf ? = Regal?
+Make a vessel shelf from planks and containers. = Produzieren Sie ein Gefäßregal aus Brettern und Gefäßen.
+Not only Waste = Nicht nur abfall
+Bling Bling ! = Bling-Bling!
+Dig diamonds whith help of a metal pick. = Bauen Sie Diamanten mit Hilfe einer Metallspitzhacke ab.
+Tightening the Screw! = Man zieht die Schraube fest!
+Make a screwdriver from one stick and a steel ingot. = Produzieren Sie einen Schrauberdreher aus einem Stock und einem Stahlbarren.
+The Mese Glow = Der Schein von Mese
+Make a lamp based on Mese and Glass. = Produzieren Sie eine Lampe auf Basis von Mese und Glas.
+
+# Original awards from Rubenwardy and Calinou
+OMG, Nyan Cat! = Oh mein Gott, Nyan Cat!
+Find a nyan cat. = Finden Sie eine Nyan Cat.
+YOU'RE A WINNER! = SIE SIND EIN GEWINNER!
+Dig 1 mossy cobblestone. = Bauen Sie 1 bemoosten Bruchstein ab.
+The Stack = Der Stapel
+Die near bones. = Sterben Sie in der Nähe von Gebeinen.
+On The Way = Auf dem Weg
+Place 100 rails. = Verlegen Sie 100 Schienen.
+Professional Lumberjack = Professioneller Holzfäller
+Dig 10,000 tree blocks. = Sammeln Sie 10.000 Baumblöcke.
+Lumberjack = Holzfäller
+Dig 100 tree blocks. = Sammeln Sie 100 Baumblöcke.
+You're a copper = Vollständig aus Kupfer
+Dig 1,000 copper ores. = Bauen Sie 1.000 Kupfererze ab.
+Hardened Miner = Abgehärteter Beragarbeiter
+Dig 1,000 stone blocks = Bauene Sie 1.000 Steinblöcke ab
+Secret Award = Geheimer Preis
+Unlock this award to find out what it is = Schalten Sie diesen Preis frei, um herauszufinden, was er ist.
+Junglebaby = Dschungelkind
+Dig 100 jungle tree blocks. = Sammeln Sie 100 Tropenbaumblöcke.
+Dying Spree = Todesrausch
+Die 5 times. = Sterben Sie 5 mal.
+In the Flow = Im Fluss
+Die in flowing lava. = Sterben Sie in fließender Lava. 
+Marchand De Sable = Sandmännchen
+Dig 1,000 sand. = Graben Sie 1.000 Sandblöcke.
+Mini Miner = Minibergmann
+Dig 100 stone blocks. = Bauen Sie 100 Steinblöcke ab.
+Obsessed with Obsidian = Besessen von Obsidian.
+Mine 50 obsidian. = Bauen Sie 50 Obsidianblöcke ab.
+Master Miner = Meisterbergarbeiter
+Dig 10,000 stone blocks. = Bauen Sie 10.000 Steinblöcke ab.
+Bot-like = Roboterartig
+Die 10 times. = Sterben Sie 10 mal.
+Semi-pro Lumberjack = Halbprofessioneller Holzfäller
+Dig 1,000 tree blocks. = Sammeln Sie 1.000 Baumblöcke.
+Light ALL The Things! = Beleuchten Sie ALLES!
+Place 1,000 torches. = Platzieren Sie 1.000 Fackeln.
+Light It Up = Ausgeleuchtet
+Place 100 torches. = Platzieren Sie 100 Fackeln.
+This is Sad = Das ist traurig.
+Die near diamond ore. = Sterben Sie in der Nähe von Diamanten.
+Jungleman = Dschungelmensch
+Dig 1,000 jungle tree blocks. = Sammeln Sie 1.000 Tropenbaumblöcke.
+L33T Lumberjack = 3L173-Holzfäller
+Dig 100,000 tree blocks. = Sammeln Sie 100.000 Baumblöcke.
+You're a witch! = Sie sind eine Hexe!
+Burn to death in a fire. = Verbrennen Sie in einem Feuer.
+First Mese Find = Erster Mesefund.
+Find some Mese. = Finden Sie etwas Mese.
+
+#craftmode
+My first hut = Meine erste Hütte
+Place 50 tree blocks. = Setzen Sie 50 Baumstämme.
+Specialized Wood builder = Spezialisierter Holzbauer
+Place 50 wooden planks. = Setzen Sie 50 Holzbretter.
+Your papers please = Ihre Papiere bitte
+Place 10 papyrus. = Pflanzen Sie 10 Papyrus.
+Get the knowledge = Erwerben Sie Wissen
+Place 5 bookshelfs. = Setzen Sie 5 Bücherregale.
+Sandstone builder lover = Amatuersandsteinbauer
+Place 50 sandstones. = Setzen Sie 50 Sandsteinblöcke.
+Specialized sandstone builder = Spezialisierter Sandsteinbauer
+Place 50 sandstone bricks. = Setzen Sie 50 Sandsteinziegelblöcke.
+Sticks into the trees = Von Laub und Stöcken
+Dig 50 leaves. = Sammeln Sie 50 Laubblöcke.
+First steps of a Lumberjack = Erste Schritte eines Holzfällers
+Dig 50 trees. = Schneiden Sie 50 Baumstämme.
+You know write ? = Können Sie schreiben?
+Dig 50 papyrus. = Sammeln Sie 50 Papyrus.
+Spinner's first steps = Erste Schritte eines Wollspinners
+Dig 50 mature cottons. = Ernten Sie 50 ausgereifte Baumwollpflanzen.
+I like the Red color = Ich mag Rot
+Dig 10 Roses. = Pflücken Sie 10 Rosen.
+The sand castle part. 1 = Die Sandburg Teil 1
+Dig 100 Sand blocks. = Graben Sie 100 Sandblöcke.
+First steps of a Crafter = Erste Schritte eines Handwerkers
+Craft 50 Wooden Planks. = Fertigen Sie 50 Holzbretter.
+Stick specialist = Stockspezialist
+Craft 50 sticks. = Fertigen Sie 50 Stöcker.
+A bit of rest = Ein wenig Ruhe
+Craft 20 Red wool. = Fertigen Sie 20 Blöcke rote Wolle.
+What a shovel ! = Was für eine Schaufel!
+Craft 10 Wooden hoes. = Fertigen Sie 10 Holzschaufeln.
+The sand castle part. 2 = Die Sandburg Teil 2
+Craft 100 sandstones. = Fertigen Sie 100 Sandsteinblöcke.
+Unlock the Pick Wood = Schalten Sie die Holzspitzacke frei
+Craft 10 Shovel wood. = Fertigen Sie 10 Holzschaufeln.
+Not only Waste = Nicht nur Abfall
+Dig 10 Waste blocks. = Sammeln Sie 10 Abfallblöcke.
+I like the Blue color = Ich mag Blau
+Dig 10 Geraniums. = Pflücken Sie 10 Geranien.
+I like the Yellow color = Ich mag Gelb
+Dig 10 Yellow Dandelions. = Pflücken Sie 10 gelbe Löwenzähne.
+I like the White color = Ich mag Weiß
+Dig 10 White Dandelions. = Pflücken Sie 10 weiße Löwenzähne.
+I like the Violet color = Ich mag Violett
+Dig 10 Violas. = Pflücken Sie 10 Veilchen.
+I like the Orange color = Ich mag Orange
+Dig 10 Tulips. = Pflücken Sie 10 Tulpen.
+The Straw House = Das Strohhaus
+Place 10 Straws. = Setzen Sie 10 Strohblöcke.
+Stone builder First Steps = Erste Schritte eines Steinbauers
+Place 50 Cobblestones. = Setzen Sie 50 Bruchsteinblöcke.
+Stone builder Lover = Amateursteinbauer
+Place 50 Stones. = Setzen Sie 50 Steinblöcke.
+Glazier = Glaser
+Place 10 Glasses. = Setzen Sie 10 Glasblöcke.
+Boom ! = Bumm!
+Place 50 Gravel blocks. = Setzen Sie 50 Kiesblöcke.
+Bricklayer First Steps = Erste Schritte eines Maurers
+Place 50 Clay blocks. = Setzen Sie 50 Tonblöcke.
+Stonemason First Steps = Erste Schritte eines Steinmetzen
+Place 50 Stone Bricks. = Setzen Sie 50 Steinziegel.
+Bricklayer Lover = Amateurmaurer
+Place 50 Bricks. = Setzen Sie 50 Ziegelblöcke.
+Steel Builder = Stahlbauer
+Place 50 Steel Blocks. = Setzen Sie 50 Stahlblöcke.
+Copper Builder = Kupferbauer
+Place 50 Copper Blocks. = Setzen Sie 50 Kupferblöcke.
+Bronze Builder = Bronzebauer
+Place 50 Bronze Blocks. = Setzen Sie 50 Bronzeblöcke.
+I'm Illuminated = Ich bin erleuchtet
+Place 100 Torches. = Platzieren Sie 100 Fackeln.
+Gold Builder = Goldbauer
+Place 50 Gold Blocks. = Setzen Sie 50 Goldblöcke.
+Obsidian Builder First Steps = Erste Schritte eines Obsidianbauers
+Place 50 Obsidian Blocks. = Setzen Sie 50 Obsidianblöcke.
+Obsidian Builder Lover = Amateurobsidianbauer
+Place 50 Obsidian Bricks. = Setzen Sie 50 Obsidianziegelblöcke.
+The Snow Man = Der Schneemann
+Dig 50 Snow Powder. = Sammeln Sie 50 Schneeblöcke.
+Hands in the Flour = Hände im Mehl
+Dig 8 Mature Wheats. = Ernten Sie 8 reife Weizenpflanzen.
+Farmer First Steps = Erste Schritte eines Bauern
+Dig 50 Mature Wheats. = Ernten Sie 50 reife Weizenpflanzen.
+I like the Black color = Ich mag Schwarz
+Dig 10 Coal Stones. = Bauen Sie 10 Kohleerze ab.
+End of Darkness = Ende der Dunkelheit
+Dig 50 Coal Stones. = Bauen Sie 50 Kohleerze ab.
+Coal Miner = Bergarbeiter
+Dig 100 Coal Stones. = Bauen Sie 100 Kohleerze ab.
+Micro Miner = Kleiner Bergarbeiter
+Dig 50 Stone blocks. = Bauen Sie 50 Steinblöcke ab.
+Get the Stone Shovel = Erhalten Sie die Steinschaufel
+Dig 100 Gravel blocks. = Graben Sie 100 Kiesblöcke.
+Clay Discover = Entdeckung des Tons
+Dig 50 Clay blocks. = Graben Sie 50 Tonblöcke.
+The Iron Age = Die Eisenzeit
+Dig 50 Iron Stones. = Bauen Sie 50 Eisenerze ab.
+The Iron Peak = Der Höhepunkt der Eisenzeit
+Dig 100 Iron Stones. = Bauen Sie 100 Eisenerze ab.
+Unlock the Screwdriver = Schalten Sie den Schraubendreher frei
+Dig 10 Steel Blocks. = Bauen Sie 10 Stahlblöcke ab.
+The Copper Age = Die Kupferzeit
+Dig 50 Copper Stones. = Bauen Sie 50 Kupfererze ab.
+The Bronze Age = Die Bronzezeit
+Dig 100 Copper Stones. = Bauen Sie 100 Kupfererze ab.
+The Mese Manipulator = Der Mesemanipulator
+Dig 50 Mese Stones. = Bauen Sie 50 Mesekristalle ab.
+The Gold Digger = Der Goldgräber
+Dig 50 Gold Stones. = Bauen Sie 50 Golderze ab.
+The Diamond Digger = Der Diamantgräber
+Dig 50 Diamond Stones. = Bauen Sie 50 Diamanten ab.
+The Obsidian Digger = Der Obsidiangräber
+Dig 50 Obsidian Blocks. = Bauen Sie 50 Obsidianblöcke ab.
+Unlock the Stone hoe = Schalten Sie die Steinhacke frei
+Craft 10 Straws. = Fertigen Sie 10 Strohbündel.
+More Color = Mehr Farben
+Craft 30 Coloured Dyes. = Stellen Sie 30 Farbstoffe her.
+The Rainbow Wools = Die Regenbogenwolle
+Craft 30 Coloured Wools. = Fertigen Sie 30 gefärbte Wollblöcke.
+Look at the Furnace = Schauen Sie in den Ofen
+Craft 50 torches. = Fertigen Sie 50 Fackeln.
+Glass Blower = Glasbläser
+Craft 50 Glass Panes. = Fertigen Sie 50 Glasscheiben.
+Glass Blower Lover = Amateurglasbläser
+Craft 50 Glass Recipients. = Fertigen Sie 50 Glasbehälter.
+Stone Bricks Crafter = Steinziegelhandwerker
+Craft 50 Brick blocks. = Fertigen Sie 50 Ziegelblöcke.
+Get the Stone Pick = Erhalten Sie die Steinspitzhacke
+Craft 100 Stone Bricks. = Fertigen Sie 100 Steinziegelblöcke.
+Unlock Crafts with Steel = Mehr Stahlbauteile
+Craft 50 Steel Blocks. = Fertigen Sie 50 Stahlblöcke.
+Bronze Crafter First Steps = Bronzehandwerker 
+Craft 50 Bronze ingots. = Fertigen Sie 50 Bronzebarren.
+Pick Crafter : Newbee = Spitzhackenfertigung : Anfänger
+Craft 10 Stone Picks. = Fertigen Sie 10 Steinspitzhacken.
+Shovel Crafter : Newbee = Schaufelfertigung : Anfänger
+Craft 10 Stone Shovels. = Fertigen Sie 10 Steinschaufeln.
+Axe Crafter : Newbee = Axtfertigung : Anfänger
+Craft 10 Stone Axes. = Fertigen Sie 10 Steinäxte
+Sword Crafter : Newbee = Schwertfertigung : Anfänger
+Craft 10 Stone Swords. = Fertigen Sie 10 Steinschwerter.
+Pick Crafter : Lover = Spitzhackenfertigung : Amateur
+Craft 10 Steel Picks. = Fertigen Sie 10 Stahlspitzhacken.
+Shovel Crafter : Lover = Schaufelfertigung : Amateur
+Craft 10 Steel Shovels. = Fertigen Sie 10 Stahlschaufeln.
+Axe Crafter : Lover = Axtfertigung : Amateur
+Craft 10 Steel Axes. = Fertigen Sie 10 Stahläxte.
+Sword Crafter : Lover = Schwertfertigung : Amateur
+Craft 10 Steel Swords. = Fertigen Sie 10 Stahlschwerter.
+Pick Crafter : Professional = Spitzhackenfertigung : Profi
+Craft 10 Bronze Picks. = Fertigen Sie 10 Bronzespitzhacken.
+Shovel Crafter : Professional = Schaufelfertigung : Profi
+Craft 10 Bronze Shovels. = Fertigen Sie 10 Bronzeschaufeln.
+Axe Crafter : Professional = Axtfertigung : Profi
+Craft 10 Bronze Axes. = Fertigen Sie 10 Bronzeäxte
+Sword Crafter : Professional = Schwertfertigung : Profi
+Craft 10 Bronze Swords. = Fertigen Sie Bronzeschwerter.
+Pick Crafter : Specialized = Spitzhackenfertigung : Spezialist
+Craft 10 Mese Picks. = Fertigen Sie 10 Mesespitzhacken.
+Shovel Crafter : Specialized = Schaufelfertigung : Spezialist
+Craft 10 Mese Shovels. = Fertigen Sie 10 Meseschaufeln.
+Axe Crafter : Specialized = Axtfertigung : Spezialist
+Craft 10 Mese Axes. = Fertigen Sie 10 Meseäxte.
+Sword Crafter : Specialized = Schwertfertigung : Spezialist
+Craft 10 Mese Swords. = Fertigen Sie 10 Meseschwerter.
+Hoe Crafter : Newbee = Hackenfertigung : Anfänger
+Craft 10 Stone Hoes. = Fertigen Sie 10 Steinhacken.
+Hoe Crafter : Lover = Hackenfertigung : Amateur
+Craft 10 Steel Hoes. = Fertigen Sie 10 Stahlhacken.
+Hoe Crafter : Professional = Hackenfertigung : Profi
+Craft 10 Bronze Hoes. = Fertigen Sie 10 Bronzehacken.
+Hoe Crafter : Specialized = Hackenfertigung : Spezialist
+Craft 10 Mese Hoes. = Fertigen Sie 10 Mesehacken.
+
+#api.lua
+Waste = Abfall
+Amazing ! You win = Glückwunsch! Sie gewinnen
+You unlock these crafts = Sie schalten die Herstellung dieser Objekte frei
+Achievement Unlocked:\ \ = Erfolg freigeschaltet:\ \
+Achievement Unlocked! = Erfolg freigeschaltet!
+Unlock crafts = Freigeschaltete Herstellung
+#Craft table = Werkbank
+Requiered = Benötigt
+OR = ODER
+empty = leer
+No craft for this item = Keine Herstellung für diesen Gegenstand
+Output = Ausgabe
+got = erhalten
+
+### Nodes names ###
+
+# Trees
+group:tree = Baum
+default:tree = Baum
+default:acacia_tree = Akazie
+default:jungletree = Tropenbaum
+default:pine_tree = Kiefer
+
+# Stick
+group:stick = Stock
+default:stick = Stock
+
+# Wood
+group:wood = Holz
+default:wood = Holz
+default:acacia_wood = Akazienholz
+default:junglewood = Tropenholz
+default:pine_wood = Kiefernholz
+stairs:slab_acacia_wood = Akazienholzplatte
+stairs:stair_acacia_wood = Akazienholztreppe
+stairs:slab_junglewood = Tropenholzplatte
+stairs:stair_junglewood = Tropenholztreppe
+stairs:slab_pine_wood = Kiefernholzplatte
+stairs:stair_pine_wood = Kiefernholztreppe
+stairs:slab_wood = Holzplatte
+stairs:stair_wood = Holztreppe
+
+# Leaves
+default:acacia_leaves = Akazienlaub
+default:jungleleaves = Tropenlaub
+default:leaves = Laub
+default:pine_needles = Kiefernnadeln
+
+# Saplings
+default:acacia_sapling = Akaziensetzling
+default:junglesapling = Tropensetzling
+default:pine_sapling = Kiefernsetzling
+default:sapling = Setzling
+
+# Fruits
+default:apple = Apfel
+
+# Beds
+beds:bed_bottom = Einfaches Bett
+beds:fancy_bed_bottom = Schickes Bett
+
+# Boats
+boats:boat = Boot
+
+# Bones
+bones:bones = Gebeine
+
+# Buckets
+bucket:bucket_empty = Leerer Eimer
+bucket:bucket_lava = Lavaeimer
+bucket:bucket_river_water = Flusswassereimer
+bucket:bucket_water = Wassereimer
+
+# Haches
+default:axe_bronze = Bronzeaxt
+default:axe_diamond = Diamantaxt
+default:axe_mese = Meseaxt
+default:axe_steel = Stahlaxt
+default:axe_stone = Steinaxt
+default:axe_wood = Holzaxt
+
+# Picks
+default:pick_bronze = Bronzespitzhacke
+default:pick_diamond = Diamantspitzhacke
+default:pick_mese = Mesespitzhacke
+default:pick_steel = Stahlspitzhacke
+default:pick_stone = Steinspitzhacke
+default:pick_wood = Holzspitzhacke
+
+# Shovels
+default:shovel_bronze = Bronzeschaufel
+default:shovel_diamond = Diamantschaufel
+default:shovel_mese = Meseschaufel
+default:shovel_steel = Stahlschaufel
+default:shovel_stone = Steinschaufel
+default:shovel_wood = Holzschaufel
+
+# Swords
+default:sword_bronze = Bronzeschwert
+default:sword_diamond = Diamantschwert
+default:sword_mese = Meseschwert
+default:sword_steel = Stahlschwert
+default:sword_stone = Steinschwert
+default:sword_wood = Holzschwert
+
+# Hoes
+farming:hoe_bronze = Bronzehacke
+farming:hoe_diamond = Diamanthacke
+farming:hoe_mese = Mesehacke
+farming:hoe_steel = Stahlhacke
+farming:hoe_stone = Steinhacke
+farming:hoe_wood = Holzhacke
+
+# Books
+default:book = Buch
+default:bookshelf = Bücherregal
+
+# Bricks
+default:brick = Ziegelblock
+default:clay_brick = Tonziegel
+stairs:slab_brick = Ziegelplatte
+stairs:stair_brick = Ziegeltreppe
+
+# Metal Lumps
+default:copper_lump = Kupferklumpen
+default:gold_lump = Goldklumpen
+default:iron_lump = Eisenklumpen
+
+# Ingots
+default:bronze_ingot = Bronzebarren
+default:copper_ingot = Kupferbarren
+default:gold_ingot = Goldbarren
+default:steel_ingot = Stahlbarren
+
+# Metal Blocks
+default:bronzeblock = Bronzeblock
+default:copperblock = Kupferblock
+default:goldblock = Goldblock
+default:steelblock = Stahlblock
+stairs:slab_bronzeblock = Bronzeblockplatte
+stairs:stair_bronzeblock = Bronzeblocktreppe
+stairs:slab_copperblock = Kupferblockplatte
+stairs:stair_copperblock = Kupferblocktreppe
+stairs:slab_goldblock = Goldblockplatte
+stairs:stair_goldblock = Goldblocktreppe
+stairs:slab_steelblock = Stahlblockplatte
+stairs:stair_steelblock = Stahlblocktreppe
+
+# Cactus
+default:cactus = Kaktus
+
+# Chests
+default:chest = Truhe
+default:chest_locked = Verschlossene Truhe
+
+# Clays
+default:clay = Ton
+default:clay_lump = Tonklumpen
+
+# Coal
+default:coal_lump = Kohleklumpen
+default:coalblock = Kohleblock
+
+# Stones
+default:cobble = Bruchstein
+default:desert_cobble = Wüstenbruchstein
+default:desert_stone = Wüstenstein
+default:desert_stonebrick = Wüstensteinziegel
+default:mossycobble = Bemooster Bruchstein
+default:stone = Stein
+default:stone_with_coal = Kohleerz
+default:stone_with_copper = Kupfererz
+default:stone_with_diamond = Diamanterz
+default:stone_with_gold = Golderz
+default:stone_with_iron = Eisenerz
+default:stone_with_mese = Meseerz
+default:stonebrick = Steinziegel
+stairs:slab_cobble = Bruchsteinplatte
+stairs:stair_cobble = Bruchsteintreppe
+stairs:slab_desert_cobble = Wüstenbruchsteinplatte
+stairs:stair_desert_cobble = Wüstenbruchsteintreppe
+stairs:slab_desert_stone = Wüstensteinplatte
+stairs:stair_desert_stone = Wüstensteintreppe
+stairs:slab_desert_stonebrick = Wüstensteinziegelplatte
+stairs:stair_desert_stonebrick = Wüstensteinziegeltreppe
+stairs:slab_stone = Steinplatte
+stairs:stair_stone = Steintreppe
+stairs:slab_stonebrick = Steinziegelplatte
+stairs:stair_stonebrick = Steinziegeltreppe
+
+# Obsidian
+default:obsidian = Obsidian
+default:obsidian_glass = Obsidianglas
+default:obsidian_shard = Obsidianscherbe
+default:obsidianbrick = Obsidianziegel
+doors:door_obsidian_glass = Obsidianglastür
+stairs:slab_obsidian = Obsidianplatte
+stairs:stair_obsidian = Obsidiantreppe
+stairs:slab_obsidianbrick = Obsidianziegelplatte
+stairs:stair_obsidianbrick = Obsidianziegeltreppe
+
+# Sands
+default:desert_sand = Wüstensand
+default:sand = Sand
+default:sandstone = Sandstein
+default:sandstonebrick = Sandsteinziegel
+stairs:slab_sandstone = Sandsteinplatte
+stairs:stair_sandstone = Sandsteintreppe
+stairs:slab_sandstonebrick = Sandsteinziegelplatte
+stairs:stair_sandstonebrick = Sandsteinziegeltreppe
+
+# Gravel
+default:gravel = Kies
+
+# Precious Stones
+default:diamond = Diamant
+default:diamondblock = Diamantblock
+default:mese = Mese
+default:mese_crystal = Mesekristall
+default:mese_crystal_fragment = Mesekristallsplitter
+
+# Dirts
+default:dirt = Erde
+default:dirt_with_dry_grass = Erde mit vertrocknetem Gras 
+default:dirt_with_grass = Erde mit Gras
+default:dirt_with_snow = Erde mit Schnee
+
+# Vegetation
+default:dry_grass_1 = Vertrocknetes Gras
+default:dry_shrub = Vertrockneter Strauch
+default:grass_1 = Gras
+default:junglegrass = Tropengras
+default:papyrus = Papyrus
+
+# Flowers
+flowers:dandelion_white = Weisser Löwenzahn
+flowers:dandelion_yellow = Gelber Löwenzahn
+flowers:geranium = Geranie
+flowers:mushroom_brown = Brauner Pilz
+flowers:mushroom_red = Roter Pilz
+flowers:mushroom_spores_brown = Braune Pilzsporen
+flowers:mushroom_spores_red = Rote Pilzsporen
+flowers:rose = Rose
+flowers:tulip = Tulpe
+flowers:viola = Veilchen
+
+# Wooden Objects
+default:fence_wood = Holzzaun
+default:ladder = Leiter
+default:sign_wall = Schild
+doors:door_wood = Holztür
+doors:trapdoor = Falltür
+
+# Stone Objects
+default:furnace = Ofen
+
+# Steel Objects
+doors:door_steel = Stahltür
+
+# Verre
+default:glass = Glas
+group:vessels = Gefäße
+doors:door_glass = Glastür
+
+# Dye
+group:dye = Farbstoffe
+dye:black = Schwarzer Farbstoff
+dye:blue = Blauer Farbstoff
+dye:brown = Brauner Farbstoff
+dye:cyan = Türkiser Farbstoff
+dye:dark_green = Dunkelgrüner Farbstoff
+dye:dark_grey = Dunkelgrauer Farbstoff
+dye:green = Grüner Farbstoff
+dye:grey = Grauer Farbstoff
+dye:magenta = Magenta Farbstoff
+dye:orange = Oranger Farbstoff
+dye:pink = Rosa Farbstoff
+dye:red = Roter Farbstoff
+dye:violet = Violetter Farbstoff
+dye:white = Weisser Farbstoff
+dye:yellow = Gelber Farbstoff
+
+# TNT
+tnt:gunpowder = Schießpulver
+tnt:tnt = TNT
+
+# Vessels
+vessels:drinking_glass = Trinkglas
+vessels:glass_bottle = Glasflasche
+vessels:glass_fragments = Glasscherbenhaufen
+vessels:shelf = Gefäßregal
+vessels:steel_bottle = Stahlflasche
+
+# Wool
+group:wool = Wolle
+wool:black = Schwarze Wolle
+wool:blue = Blaue Wolle
+wool:brown = Braune Wolle
+wool:cyan = Türkise Wolle
+wool:dark_green = Dunkelgrüne Wolle
+wool:dark_grey = Dunkelgraue Wolle
+wool:green = Grüne Wolle
+wool:grey = Graue Wolle
+wool:magenta = Magenta Wolle
+wool:orange = Orange Wolle
+wool:pink = Rosa Wolle
+wool:red = Rote Wolle
+wool:violet = Violette Wolle
+wool:white = Weisse Wolle
+wool:yellow = Gelbe Wolle
+
+# Xpanes
+xpanes:bar = Eisenstange
+xpanes:pane = Glasscheibe
+
+# Others
+default:ice = Eis
+default:lava_source = Lavaquelle
+default:meselamp = Meselampe
+default:nyancat = Nyan Cat
+default:nyancat_rainbow = Nyan-Cat-Regenbogen
+default:paper = Papier
+default:rail = Schiene
+default:river_water_source = Flusswasserquelle
+default:snow = Schnee
+default:snowblock = Schneeblock
+default:torch = Fackel
+default:water_source = Wasserquelle
+farming:bread = Brot
+farming:cotton = Baumwolle
+farming:flour = Mehl
+farming:seed_cotton = Baumwollsamen
+farming:seed_wheat = Weizenkörner
+farming:straw = Stroh
+farming:wheat = Weizen
+fire:basic_flame = Basisflamme
+screwdriver:screwdriver = Schrauberdreher
+stairs:slab_straw = Strohplatte
+stairs:stair_straw = Strohtreppe
+sys4_achievements:waste = Abfall

@@ -1,0 +1,1 @@
+/home/balaam/Minetest/games/minetestcraft/mods/0_minetestcraft/sys4_achievements/locale/en.txt
