@@ -1,0 +1,48 @@
+- Refreshed all the mods from minetest_game. (0.4.13, 15 January 2016)
+- Removed default bones mod because of conflict with dropondie
+- Removed default creative mod because of conflict with crafting_pack
+
+
+CURRENT MOD LIST 
+MOD                 Version         URL                                                 Notes
+======================================================================================================================================
+3d_armor            0.4.5           https://forum.minetest.net/viewtopic.php?t=4654     Adds MC-like armor
+3d_torch            0.2             https://github.com/Fritigern/3d_torch               Fork by Fritigern, respects protected land.
+cme                 2.2.1           https://forum.minetest.net/viewtopic.php?t=8638     Adds sheep, chickens, zombies and ghosts
+crafting_pack       2.0.1           https://forum.minetest.net/viewtopic.php?t=5641     Still works, YAY!
+dropondie           Oct 19, 2014    https://forum.minetest.net/viewtopic.php?t=7835     Remove bones mod
+food                2.3             https://forum.minetest.net/viewtopic.php?t=2960     Adds additio0nal foods and food recipes
+hicarts             0.01            https://forum.minetest.net/viewtopic.php?t=12185    Replaces carts mod.
+hud_hunger          2.x.1           https://forum.minetest.net/viewtopic.php?t=6342     Latest version of the previous hud mod
+item_drop           ???             https://forum.minetest.net/viewtopic.php?t=9638     Pick up items by walking over them
+itemframes          ???             https://forum.minetest.net/viewtopic.php?t=9636     Adds item frams and pedestals
+minetestambience    .36             https://forum.minetest.net/viewtopic.php?t=2807     Adds ambient sounds and music
+pie                 0.2             https://forum.minetest.net/viewtopic.php?t=13285    TenPlus1's version, replaces Mitroman's version
+plantlife           ???             https://forum.minetest.net/viewtopic.php?t=3898     Updating from the old plants lib
+potions             0.1             https://forum.minetest.net/viewtopic.php?t=7867     Replaces Player Effect Potions
+signs               60fe0c7         https://forum.minetest.net/viewtopic.php?t=3289     Re-installed, just in case something was updated
+stained_glass       1.2             https://forum.minetest.net/viewtopic.php?t=4904     Replaces the framedglass mod
+sys4_achievements   0.4_dev         https://forum.minetest.net/viewtopic.php?t=13731    Replaces 4mcac
+
+
+ADDED AS DEPENDENCIES
+MOD                 Version         URL                                                     Notes
+======================================================================================================================================
+biomelib            ???             https://forum.minetest.net/viewtopic.php?t=3898     Dependency of plantlife
+moreblocks          ???             https://forum.minetest.net/viewtopic.php?t=509      Dependency of Stained Glass
+unified_dyes        ???             https://forum.minetest.net/viewtopic.php?t=2178     Dependency of Stained Glass
+
+
+REMOVED SINCE LAST TIME
+Mod name            Reason
+=================================================================================
+beds                Part of minetest_game now, so no longer needed
+4mcac               Dead download link, unmaintained and incompatible with MT 0.4.13
+mg                  Use valleys or v7 mapgen instead. It's much better!
+carts               Outdated, replaced with hicarts
+framedglass         Why put a frame around glass? replaced with stained_glass
+stackablebucket     No longer needed
+moretrees           Pretty as they are, the trees that this mod adds are not very vanilla MC-like
+railcorridors       Caused many errors. Will add replacement mod if one becomes availble (tsm_railcorridors suffered the same errors)
+
+

@@ -2,7 +2,7 @@ MINETESTCRAFT
 =============
 
 A game for Minetest, intended to have a familiar feel to people migrating from "that other mining game".
-Basically, this is an attempt to put together a game that comes as close to the MC gameplay and experience as possible. this means that i sometimes choose to use mod "Y" instead of the more popular or newer mod "X".
+Basically, this is an attempt to put together a game that comes as close to the MC gameplay and experience as possible. this means that I sometimes choose to use mod "Y" instead of the more popular or newer mod "X".
 
 This game is set up like a modpack, so that you can choose to move the mods to your global mods folder.
 
