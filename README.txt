@@ -30,7 +30,7 @@ signs
 stained_glass
 sys4_achievements
 unifieddyes
-
+villages-for-minetest
 
 Plus the following mods from minetest_game:
 

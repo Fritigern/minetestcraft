@@ -3,25 +3,26 @@ The following is a list of the authors and/or maintainers of the mods in this su
 
 MOD                 AUTHOR
 ==================================================
-3d_armor            Stu
-3d_torch            Semmett9 (Forked by Fritigern)
-MinetestAmbience    Neuromancer
-biome_lib           VanessaE  
-cme                 Blockmen
-crafting_pack       Blockmen
-dropondie           minermoder27
-food                Rubenwardy
-hicarts             ABJ
-hud_hunger          Blockmen
-item_drop           Calinou
-itemframes          Calinou
-moreblocks          Calinou
-pie                 TenPlus1
-plantlife           VanessaE
-potions             minermoder27
-signs               PilzAdam
-stained_glass       doyousketch2
-sys4_achievements   sys4
-unifieddyes         VanessaE
+3d_armor                Stu
+3d_torch                Semmett9 (Forked by Fritigern)
+MinetestAmbience        Neuromancer
+biome_lib               VanessaE  
+cme                     Blockmen
+crafting_pack           Blockmen
+dropondie               minermoder27
+food                    Rubenwardy
+hicarts                 ABJ
+hud_hunger              Blockmen
+item_drop               Calinou
+itemframes              Calinou
+moreblocks              Calinou
+pie                     TenPlus1
+plantlife               VanessaE
+potions                 minermoder27
+signs                   PilzAdam
+stained_glass           doyousketch2
+sys4_achievements       sys4
+unifieddyes             VanessaE
+villages-for-minetest   Sokomine
 
 Plus most of the mods from minetest_game
